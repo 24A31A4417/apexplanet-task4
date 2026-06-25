@@ -323,13 +323,6 @@ Through this task, I practiced:
 
 ---
 
-## 📎 Repository
-
-GitHub Repository:
-[Task 4 Repository Link Here]
-
----
-
 ## ✅ Status
 
 **Task 4 Completed Successfully**
